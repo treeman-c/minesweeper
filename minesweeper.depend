@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1611306327 source:c:\users\mark\desktop\minesweeper\minesweeper\minesweepertest.cpp
-	<graphics.h>
-	<time.h>
-	<string.h>
-	<stdio.h>
-
-1611306504 source:c:\users\mark\desktop\minesweeper\minesweeper\ico.rc
-
